@@ -1,0 +1,20 @@
+project_name: vehicle-memory-bank-benchmark
+
+data:
+  catalog_path: data/demo_catalog/vehicles.csv
+
+retrieval:
+  method: hybrid
+  use_image_features: true
+  weights:
+    text: 0.90
+    image: 0.35
+    brand: 0.35
+    model: 0.50
+    body_type: 0.20
+    color_name: 0.25
+    rgb: 0.25
+
+evaluation:
+  top_k: 5
+  output_dir: eval/results/hybrid_demo
