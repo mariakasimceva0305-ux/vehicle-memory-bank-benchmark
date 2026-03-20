@@ -1,0 +1,37 @@
+asset_id,car_id,view_id,view_label,lighting,brand,model,body_type,color_name,r,g,b,caption,image_path
+car_001_1,car_001,1,front_left,daylight,Toyota,Camry,sedan,blue,36,103,214,"blue Toyota Camry sedan, front-left walkaround view in daylight",data/demo_catalog/images/car_001_1.png
+car_001_2,car_001,2,side_profile,overcast,Toyota,Camry,sedan,blue,36,103,214,"Toyota Camry in blue, sedan, side profile under soft overcast light",data/demo_catalog/images/car_001_2.png
+car_001_3,car_001,3,rear_right,evening,Toyota,Camry,sedan,blue,36,103,214,rear-right angle near sunset of a blue sedan Toyota Camry,data/demo_catalog/images/car_001_3.png
+car_002_1,car_002,1,front_left,daylight,Hyundai,Solaris,sedan,white,230,230,230,"white Hyundai Solaris sedan, front-left walkaround view in daylight",data/demo_catalog/images/car_002_1.png
+car_002_2,car_002,2,side_profile,overcast,Hyundai,Solaris,sedan,white,230,230,230,"Hyundai Solaris in white, sedan, side profile under soft overcast light",data/demo_catalog/images/car_002_2.png
+car_002_3,car_002,3,rear_right,evening,Hyundai,Solaris,sedan,white,230,230,230,rear-right angle near sunset of a white sedan Hyundai Solaris,data/demo_catalog/images/car_002_3.png
+car_003_1,car_003,1,front_left,daylight,Kia,Sorento,suv,black,30,30,30,"black Kia Sorento suv, front-left walkaround view in daylight",data/demo_catalog/images/car_003_1.png
+car_003_2,car_003,2,side_profile,overcast,Kia,Sorento,suv,black,30,30,30,"Kia Sorento in black, suv, side profile under soft overcast light",data/demo_catalog/images/car_003_2.png
+car_003_3,car_003,3,rear_right,evening,Kia,Sorento,suv,black,30,30,30,rear-right angle near sunset of a black suv Kia Sorento,data/demo_catalog/images/car_003_3.png
+car_004_1,car_004,1,front_left,daylight,BMW,X5,suv,graphite,85,87,92,"graphite BMW X5 suv, front-left walkaround view in daylight",data/demo_catalog/images/car_004_1.png
+car_004_2,car_004,2,side_profile,overcast,BMW,X5,suv,graphite,85,87,92,"BMW X5 in graphite, suv, side profile under soft overcast light",data/demo_catalog/images/car_004_2.png
+car_004_3,car_004,3,rear_right,evening,BMW,X5,suv,graphite,85,87,92,rear-right angle near sunset of a graphite suv BMW X5,data/demo_catalog/images/car_004_3.png
+car_005_1,car_005,1,front_left,daylight,Skoda,Octavia,liftback,silver,180,184,190,"silver Skoda Octavia liftback, front-left walkaround view in daylight",data/demo_catalog/images/car_005_1.png
+car_005_2,car_005,2,side_profile,overcast,Skoda,Octavia,liftback,silver,180,184,190,"Skoda Octavia in silver, liftback, side profile under soft overcast light",data/demo_catalog/images/car_005_2.png
+car_005_3,car_005,3,rear_right,evening,Skoda,Octavia,liftback,silver,180,184,190,rear-right angle near sunset of a silver liftback Skoda Octavia,data/demo_catalog/images/car_005_3.png
+car_006_1,car_006,1,front_left,daylight,Lada,Niva,suv,green,56,112,54,"green Lada Niva suv, front-left walkaround view in daylight",data/demo_catalog/images/car_006_1.png
+car_006_2,car_006,2,side_profile,overcast,Lada,Niva,suv,green,56,112,54,"Lada Niva in green, suv, side profile under soft overcast light",data/demo_catalog/images/car_006_2.png
+car_006_3,car_006,3,rear_right,evening,Lada,Niva,suv,green,56,112,54,rear-right angle near sunset of a green suv Lada Niva,data/demo_catalog/images/car_006_3.png
+car_007_1,car_007,1,front_left,daylight,Ford,Focus,hatchback,red,187,43,43,"red Ford Focus hatchback, front-left walkaround view in daylight",data/demo_catalog/images/car_007_1.png
+car_007_2,car_007,2,side_profile,overcast,Ford,Focus,hatchback,red,187,43,43,"Ford Focus in red, hatchback, side profile under soft overcast light",data/demo_catalog/images/car_007_2.png
+car_007_3,car_007,3,rear_right,evening,Ford,Focus,hatchback,red,187,43,43,rear-right angle near sunset of a red hatchback Ford Focus,data/demo_catalog/images/car_007_3.png
+car_008_1,car_008,1,front_left,daylight,Nissan,Qashqai,crossover,blue,55,116,190,"blue Nissan Qashqai crossover, front-left walkaround view in daylight",data/demo_catalog/images/car_008_1.png
+car_008_2,car_008,2,side_profile,overcast,Nissan,Qashqai,crossover,blue,55,116,190,"Nissan Qashqai in blue, crossover, side profile under soft overcast light",data/demo_catalog/images/car_008_2.png
+car_008_3,car_008,3,rear_right,evening,Nissan,Qashqai,crossover,blue,55,116,190,rear-right angle near sunset of a blue crossover Nissan Qashqai,data/demo_catalog/images/car_008_3.png
+car_009_1,car_009,1,front_left,daylight,Volkswagen,Tiguan,suv,white,235,235,235,"white Volkswagen Tiguan suv, front-left walkaround view in daylight",data/demo_catalog/images/car_009_1.png
+car_009_2,car_009,2,side_profile,overcast,Volkswagen,Tiguan,suv,white,235,235,235,"Volkswagen Tiguan in white, suv, side profile under soft overcast light",data/demo_catalog/images/car_009_2.png
+car_009_3,car_009,3,rear_right,evening,Volkswagen,Tiguan,suv,white,235,235,235,rear-right angle near sunset of a white suv Volkswagen Tiguan,data/demo_catalog/images/car_009_3.png
+car_010_1,car_010,1,front_left,daylight,Mercedes,E-Class,sedan,black,22,22,22,"black Mercedes E-Class sedan, front-left walkaround view in daylight",data/demo_catalog/images/car_010_1.png
+car_010_2,car_010,2,side_profile,overcast,Mercedes,E-Class,sedan,black,22,22,22,"Mercedes E-Class in black, sedan, side profile under soft overcast light",data/demo_catalog/images/car_010_2.png
+car_010_3,car_010,3,rear_right,evening,Mercedes,E-Class,sedan,black,22,22,22,rear-right angle near sunset of a black sedan Mercedes E-Class,data/demo_catalog/images/car_010_3.png
+car_011_1,car_011,1,front_left,daylight,Renault,Duster,crossover,orange,205,108,35,"orange Renault Duster crossover, front-left walkaround view in daylight",data/demo_catalog/images/car_011_1.png
+car_011_2,car_011,2,side_profile,overcast,Renault,Duster,crossover,orange,205,108,35,"Renault Duster in orange, crossover, side profile under soft overcast light",data/demo_catalog/images/car_011_2.png
+car_011_3,car_011,3,rear_right,evening,Renault,Duster,crossover,orange,205,108,35,rear-right angle near sunset of a orange crossover Renault Duster,data/demo_catalog/images/car_011_3.png
+car_012_1,car_012,1,front_left,daylight,Honda,Civic,sedan,red,195,42,60,"red Honda Civic sedan, front-left walkaround view in daylight",data/demo_catalog/images/car_012_1.png
+car_012_2,car_012,2,side_profile,overcast,Honda,Civic,sedan,red,195,42,60,"Honda Civic in red, sedan, side profile under soft overcast light",data/demo_catalog/images/car_012_2.png
+car_012_3,car_012,3,rear_right,evening,Honda,Civic,sedan,red,195,42,60,rear-right angle near sunset of a red sedan Honda Civic,data/demo_catalog/images/car_012_3.png
