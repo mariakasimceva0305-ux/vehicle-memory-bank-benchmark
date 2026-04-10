@@ -84,8 +84,8 @@
 | MRR | 1.0 |
 | top1_brand_match | 1.0 |
 | top1_color_match | 1.0 |
-| latency_ms_p50 | 1.18 |
-| latency_ms_p95 | 2.54 |
+| latency_ms_p50 | 3.63 |
+| latency_ms_p95 | 5.93 |
 
 ### Объединённый режим с визуальными признаками (`configs/demo_hybrid.yaml`)
 
@@ -96,8 +96,8 @@
 | MRR | 1.0 |
 | top1_brand_match | 1.0 |
 | top1_color_match | 1.0 |
-| latency_ms_p50 | 2.09 |
-| latency_ms_p95 | 3.17 |
+| latency_ms_p50 | 4.73 |
+| latency_ms_p95 | 10.42 |
 
 ## Запуск
 
