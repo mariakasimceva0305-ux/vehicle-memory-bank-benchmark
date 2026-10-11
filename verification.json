@@ -1,0 +1,15 @@
+{
+  "verified_on": "2026-10-11",
+  "checks": [
+    {
+      "project": "vehicle-memory-bank-benchmark",
+      "command": "-m pytest -q",
+      "exit_code": 0
+    },
+    {
+      "project": "vehicle-memory-bank-benchmark",
+      "command": "scripts/run_benchmark.py --config configs/demo_text.yaml",
+      "exit_code": 0
+    }
+  ]
+}
